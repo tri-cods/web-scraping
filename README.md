@@ -1,6 +1,6 @@
 # Web Scraping
 
-Scraping is the practice of extracting data from web sites, often using repeatable steps to collect multiple data points of the same kind or structure. 
+Scraping is the practice of extracting data from web sites, using repetitive steps to collect data points from a single page or multiple pages.
 
 In this workshop, we will:
 - Learn about a few approaches to scraping data from the web
