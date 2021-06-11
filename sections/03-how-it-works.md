@@ -10,4 +10,4 @@ You could also use Python or other programming language libraries to parse the D
 
 Somewhere in between the scrape-by-hand and scrape-by-code solutions lies the browser extension from [WebScraper.io](https://webscraper.io), a tool that can be installed in Chrome or Firefox. This tool requires no coding knowledge, works through the “Inspect” feature of these web browsers, and can be extremely useful for simple web scraping tasks. 
 
-[<<<Back](02-TOS-ethics.md) | [Next>>>](04-webscraper.md)
+[<<<Back](02-TOS-ethics.md) | [Next>>>](04-scraper.md)
