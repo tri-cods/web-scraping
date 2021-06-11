@@ -1,0 +1,2 @@
+# What is web scraping?
+Scraping is the practice of extracting data from web sites, often using repeatable tasks to pull multiple data points of the same kind or structure. We already do this all the time! When we need to grab a few phone numbers or addresses from a web page, we often use our mouse, keyboard, or other input devices to copy-and-paste data from the page into a note, spreadsheet, or document. 
