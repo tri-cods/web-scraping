@@ -10,4 +10,4 @@ These Python libraries may be of some use:
 
 With all of these options, you have a bit more control over what your results look like, and you can perform operations on your data (splitting full names into first name and last name fields, for example) before saving it as a file.
 
-[<<<Back](04-scraper.md)
+[<<<Back](04-scraper.md)|[Next>>>](05-exercise.md)
